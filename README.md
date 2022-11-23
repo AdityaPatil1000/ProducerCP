@@ -2,8 +2,8 @@
 SPOS assignment4
 
 O/P:
-Producer produced-0
-Producer produced-1
-Consumer consumed-0
-Consumer consumed-1
-Producer produced-2
+Producer produced-0\n
+Producer produced-1\n
+Consumer consumed-0\n
+Consumer consumed-1\n
+Producer produced-2\n
